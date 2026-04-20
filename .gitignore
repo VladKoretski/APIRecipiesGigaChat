@@ -6,3 +6,7 @@ APIkey.txt
 tests/
 .DS_Store
 *.log
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
