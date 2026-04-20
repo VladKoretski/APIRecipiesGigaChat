@@ -1,5 +1,9 @@
 # Список покупок по блюду
 
+[![🧪 Test & Lint](https://github.com/VladKoretski/APIRecipiesGigaChat/actions/workflows/test.yml/badge.svg)](https://github.com/VladKoretski/APIRecipiesGigaChat/actions/workflows/test.yml)  
+
+
+
 Приложение для генерации списка покупок и шагов приготовления на основе названия блюда через LLM API (GigaChat).
 
 ## Функционал
